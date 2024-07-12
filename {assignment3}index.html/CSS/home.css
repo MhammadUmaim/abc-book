@@ -1,0 +1,133 @@
+
+h1{
+    text-align:center;
+    font-size: xx-large;
+}
+.heading1{
+    font-family: "Exo 2", sans-serif;
+  font-optical-sizing:auto;
+  font-weight: 750;
+  font-style: normal;
+  font-size: xx-large;
+  color: cadetblue;
+  text-shadow: 5px 5px 5px 5px red;
+}
+.heading1{
+    text-decoration:underline;
+}
+.ANCHOR MAIN{
+    text-align: center;
+}
+span{
+    visibility:hidden;
+}
+.ANCHOR MAIN{
+    text-decoration: line-through;
+}
+.div1{
+    background-color: aqua;
+    height: 50px;
+    position:static;
+}
+p{
+    position: relative;
+    top: 15px;
+    left: 20px;
+    text-decoration: underline;
+
+}
+img{
+   position: relative;
+   left: 100px;
+}
+h2{
+    display: inline;
+}
+div{
+    background-color: aqua;
+    height: 50px;
+    position:static;
+}
+.ball{
+    position: relative;
+   left: 120px;
+}
+.cat{
+    position: relative;
+    left: 120px;
+}
+a{
+    color:darkslategray ;
+   cursor: crosshair;
+}
+body{
+    background-color:lemonchiffon;
+}
+.divtop{
+    height: 100px;
+    width: 100px;
+    background-color:goldenrod;
+    position: relative;
+    left: 1400px;
+    border-radius: 50px;
+}
+.Top:link{
+    color:darkcyan; 
+    position:absolute;
+    top: 30px;
+    left: 15px;
+}
+.Top:visited{
+    color: blueviolet;
+}
+.Top:hover{
+    color: chartreuse;
+}
+.Top:active{
+    color: red;
+}
+a:link{
+    color:darkcyan;
+}
+a:visited{
+    color: blueviolet;
+}
+a:hover{
+    color: chartreuse;
+}
+a:active{
+       color: red;
+}
+  div{
+    text-decoration: solid;
+    font-size: x-large;
+   font-family: serif;
+   color: darkslategrey;
+    
+  }
+  h2{
+    font-family: cursive;
+    font-size: x-large;
+  }
+  .divtop{
+    position:relative;
+   top: 10px;
+   height: 120;
+   width: 120;
+   border-radius: 20px;
+   border-color: black;
+   border-spacing: 5px;
+    
+  }
+  .Top:link{
+    color:black;
+  }
+  .Top:hover{
+    color:chartreuse;
+  }
+  .Top:active{
+    color: red;
+  }
+  h1{
+    text-align: center;
+  }
